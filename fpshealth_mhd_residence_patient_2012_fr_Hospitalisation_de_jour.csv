@@ -1,4 +1,4 @@
-﻿région;province;arrondissement;code_ins;code_postal;commune;classe_d_âge_(ans);sexe;nombre_de_séjours
+région;province;arrondissement;code_ins;code_postal;commune;classe_d_âge_(ans);sexe;nombre_de_séjours
 Région flamande;Anvers;Anvers;11001.0;2630.0;Aartselaar; 0 – 14;Masculin;111
 Région flamande;Anvers;Anvers;11001.0;2630.0;Aartselaar; 0 – 14;Féminin;71
 Région flamande;Anvers;Anvers;11001.0;2630.0;Aartselaar;15 – 64;Masculin;1089
